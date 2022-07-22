@@ -9,7 +9,9 @@
 ## Hey 👋
 
 
-![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dimurlobster)](https://github.com/imurlobster).
+[![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dimurlobster)](https://github.com/imurlobster)
+
+
 - 💞️ I'm @imurlobster.It means that I am your lobster.
 - 🔭 I’m currently working as a frontend engineer.
 - 🌱 I’m currently learning React.
