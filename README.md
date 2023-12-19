@@ -8,7 +8,7 @@
 
 # Hi 你好吖 👋👋👋
 
-💞️ Imurlobster是I am your lobster的缩写
+💞️ urmylobster是You are my lobster的缩写
 -
 🦞 龙虾出自老友记的瑞秋*罗斯couple
 -
