@@ -18,7 +18,7 @@
 -
 👀 希望和大家多多交流
 -
-📫 个人博客You are my lobster[urmylobster](https://urmylobster.com)
+📫 个人博客日志 [urmylobster](https://urmylobster.com)
 -
 
 
